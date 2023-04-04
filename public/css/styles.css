@@ -1,0 +1,10 @@
+.centrar{
+    border-left: 12px solid black;
+    justify-content: center;
+    margin-left: 25%;
+}
+
+.titulos{
+    text-shadow: 2px 1px 12px solid white;
+    font-size: 22px !important;
+}
